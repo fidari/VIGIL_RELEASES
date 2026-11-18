@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>VIGIL</title>
+    <item>
+      <title>0.2.0</title>
+      <pubDate>Wed, 18 Nov 2026 17:48:29 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/fidari/VIGIL_RELEASES/releases/download/0.2.0/VIGIL.zip"
+                 sparkle:edSignature="IuqPzrb7xp0ev6VxYujSracfjIEMOGA4r3MBkAna+A9pKlffL05/l5dEqMt4yGKExbVCNtD7oSaLa8MQQfWZBA==" length="6571114"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
