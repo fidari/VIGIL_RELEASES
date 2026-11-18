@@ -3,13 +3,13 @@
   <channel>
     <title>VIGIL</title>
     <item>
-      <title>0.4.0</title>
-      <pubDate>Wed, 18 Nov 2026 18:28:03 +0000</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <title>0.5.0</title>
+      <pubDate>Wed, 18 Nov 2026 22:56:03 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/fidari/VIGIL_RELEASES/releases/download/0.4.0/VIGIL.zip"
-                 sparkle:edSignature="OeTwZVU5UtGFXnk2ipUQC6RKVRHwUZMCsn6jEYfmAxgwhpCO+7JgcmSwyQLeXS+Z86Bk2aD94qSoQra9lAi4AA==" length="6571120"
+      <enclosure url="https://github.com/fidari/VIGIL_RELEASES/releases/download/0.5.0/VIGIL.zip"
+                 sparkle:edSignature="Kv9L83JUmTVu+emWZtwJThKi3UU1G092bA0hvN7KeNEt5RyFkNsBo1GC/SBhpJT2nL2TQukSpPsO8B7qPVVeBw==" length="6594224"
                  type="application/octet-stream" />
     </item>
   </channel>
